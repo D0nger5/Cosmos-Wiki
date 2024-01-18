@@ -15,6 +15,9 @@ It is done when:
 - The application uses Bootstrap
 
 - The application has a polished UI
+    - The user is presented with a Modal to search a Cosmos related term
+    - Below the Modal hashtags with suggested search terms show. Clicking one of the search terms populates the Modal with this term 
+    - The user is then presented with an image related to their search term (NASA API) and a few paragraphs of text related to their search term (Wikimedia API)
 
 - The application is responsive (adapts to various screen sizes)
 
