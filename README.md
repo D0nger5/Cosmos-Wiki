@@ -24,8 +24,8 @@ It is done when:
 - The application uses Bootstrap Modals in place of alerts, confirms or prompts 
 
 - The application implements two server-side APIs:
- - NASA
- - Wikimedia (Wikipedia)
+    - NASA
+    - Wikimedia (Wikipedia)
 
 - The application is interactive (accepts and responds to user input)
 
